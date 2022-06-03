@@ -34,13 +34,13 @@ After searching for the film, it shows the movie in a card form in which each mo
 - ### Step 6 - Clone the repository using git command on git bash
 
 ```bash
-  git clone https://github.com/ailaa-jadoo/pokeDex.git
+  git clone https://github.com/ailaa-jadoo/TV-show-search-app.git
 ```
 
 - ### Step 7 - Change your current directory to working directory using terminal command
 
 ``` bash
-  cd .\pokeDex\
+  cd .\TV-show-search-app\
 ```
 
 - ### Step 8 - Now on the script.js file fill out the api key you saved earlier in API_URL and SEARCH_API
