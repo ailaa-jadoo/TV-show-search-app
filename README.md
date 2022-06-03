@@ -45,7 +45,7 @@ After searching for the film, it shows the movie in a card form in which each mo
 
 - ### Step 8 - Now on the script.js file fill out the api key you saved earlier in API_URL and SEARCH_API
 
-  ![App Screenshot](https://github.com/ailaa-jadoo/TV-show-search-app/blob/main/SS-movie-search/carbon.png?raw=true)
+  ![App Screenshot](https://github.com/ailaa-jadoo/TV-show-search-app/blob/main/SS-movie-search/carbon 11.png?raw=true)
 
 - ### Step 9 - On your VS code download the extension [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
